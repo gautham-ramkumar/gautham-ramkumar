@@ -115,12 +115,12 @@ State Estimation         →  EKF/UKF, Camera-LiDAR Calibration, IMU Fusion
 ## GitHub Stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gautham-ramkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=c9d1d9" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautham-ramkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&text_color=c9d1d9" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=gautham-ramkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautham-ramkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gautham-ramkumar&theme=tokyonight&hide_border=true&background=0D1117&stroke=6EE7B7&ring=6EE7B7&fire=FF6B6B&currStreakLabel=6EE7B7" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=gautham-ramkumar&theme=tokyonight&hide_border=true&background=0D1117&stroke=6EE7B7&ring=6EE7B7&fire=FF6B6B&currStreakLabel=6EE7B7" alt="GitHub Streak" />
 </div>
 
 ---
