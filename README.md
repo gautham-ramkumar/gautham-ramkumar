@@ -24,6 +24,7 @@ I believe in building things from scratch first — understanding the math befor
 - 🔭 Currently exploring **Vision-Language-Action (VLA) models** and **neural scene representations**
 - 🛠️ Building from scratch: DQN in PyTorch → Gaussian Splatting → fine-tuning VLAs on sim benchmarks
 - 📍 Boston, MA
+- 💼 **Actively seeking full-time roles in Perception & Autonomy**
 
 ---
 
@@ -97,7 +98,7 @@ I believe in building things from scratch first — understanding the math befor
 | Degree | Institution | GPA | Focus |
 |--------|------------|-----|-------|
 | **MS in Robotics** (2024 – 2026) | Northeastern University, Boston | 3.636 | 3D Vision, Deep Learning for Robotics, Autonomous Systems |
-| **BTech / BE** (prior) | — | — | Robotics & Control |
+| **BTech in Electronics & Communications Engineering** (2020 – 2024) | Vellore Institute of Technology, Chennai, India | 8.09 / 10 (3.48 GPA) | ML, Digital Image Processing, Computer Vision, Deep Learning |
 
 ---
 
