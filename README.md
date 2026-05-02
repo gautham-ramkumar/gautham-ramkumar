@@ -4,7 +4,7 @@
 
 **Building perception systems that understand geometry, light, and the world in 3D**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6EE7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sites.google.com/view/gauthamramkumar/about)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6EE7B7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://gautham-ramkumar.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rgautham20)
 [![GitHub](https://img.shields.io/badge/GitHub-gautham--ramkumar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gautham-ramkumar)
 
@@ -20,7 +20,7 @@ MS Robotics student at **Northeastern University, Boston** with a focus on **3D 
 
 I believe in building things from scratch first — understanding the math before using the library.
 
-- 🎓 **MS in Robotics** — Northeastern University, Boston (GPA: 3.78)
+- 🎓 **MS in Robotics** — Northeastern University, Boston (GPA: 3.636)
 - 🔭 Currently exploring **Vision-Language-Action (VLA) models** and **neural scene representations**
 - 🛠️ Building from scratch: DQN in PyTorch → Gaussian Splatting → fine-tuning VLAs on sim benchmarks
 - 📍 Boston, MA
@@ -96,7 +96,7 @@ I believe in building things from scratch first — understanding the math befor
 
 | Degree | Institution | GPA | Focus |
 |--------|------------|-----|-------|
-| **MS in Robotics** (2024 – 2026) | Northeastern University, Boston | 3.78 | 3D Vision, Deep Learning for Robotics, Autonomous Systems |
+| **MS in Robotics** (2024 – 2026) | Northeastern University, Boston | 3.636 | 3D Vision, Deep Learning for Robotics, Autonomous Systems |
 | **BTech / BE** (prior) | — | — | Robotics & Control |
 
 ---
@@ -115,8 +115,13 @@ State Estimation         →  EKF/UKF, Camera-LiDAR Calibration, IMU Fusion
 ## GitHub Stats
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gautham-ramkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=c9d1d9&cache_seconds=1800" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gautham-ramkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6EE7B7&text_color=c9d1d9&cache_seconds=1800" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gautham-ramkumar&theme=tokyonight" alt="Profile Summary" />
+</div>
+
+<div align="center">
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gautham-ramkumar&theme=tokyonight" alt="Repos Per Language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gautham-ramkumar&theme=tokyonight" alt="Most Commit Language" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gautham-ramkumar&theme=tokyonight" alt="Stats" />
 </div>
 
 <div align="center">
