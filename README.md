@@ -36,7 +36,6 @@ I believe in building things from scratch first — understanding the math befor
 | [**gaussian-splatting**](https://github.com/gautham-ramkumar/gaussian-splatting) | 3D Gaussian Splatting from scratch — Buddha statue reconstruction with COLMAP, Docker, and CI/CD | `Python` `COLMAP` `Docker` `3DGS` |
 | [**3D-Reconstruction-using-SfM**](https://github.com/gautham-ramkumar/3D-Reconstruction-using-SfM) | Incremental SfM pipeline with OpenCV PnP tracking and GTSAM Bundle Adjustment | `Python` `OpenCV` `GTSAM` `SfM` |
 | [**Semantic-Color-Constancy**](https://github.com/gautham-ramkumar/Semantic-Color-Constancy) | Novel color constancy method leveraging object-level semantic priors — CS 7180 Advanced Perception | `PyTorch` `Semantic Segmentation` `CV` |
-| [**Image-Enhancement**](https://github.com/gautham-ramkumar/Image-Enhancement) | Hybrid U-Net (Zero-DCE + LIVENet) for joint denoising and low-light enhancement | `PyTorch` `U-Net` `Zero-DCE` |
 | [**Camera-LiDAR-Temporal-Calibration**](https://github.com/gautham-ramkumar/Camera-LiDAR-Temporal-Calibration) | Temporal calibration between camera and LiDAR for autonomous field robotics | `Python` `ROS` `Sensor Fusion` `Calibration` |
 | [**2D-EKF-using-GPS-and-IMU**](https://github.com/gautham-ramkumar/2D-EKF-using-GPS-and-IMU) | Extended Kalman Filter fusing high-frequency IMU with async GPS for vehicle trajectory estimation | `Python` `EKF` `IMU` `GPS` |
 
