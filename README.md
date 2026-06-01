@@ -113,24 +113,6 @@ State Estimation         →  EKF/UKF, Camera-LiDAR Calibration, IMU Fusion
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gautham-ramkumar&theme=tokyonight" alt="Profile Summary" />
-</div>
-
-<div align="center">
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gautham-ramkumar&theme=tokyonight" alt="Repos Per Language" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gautham-ramkumar&theme=tokyonight" alt="Most Commit Language" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gautham-ramkumar&theme=tokyonight" alt="Stats" />
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=gautham-ramkumar&theme=tokyonight&hide_border=true&background=0D1117&stroke=6EE7B7&ring=6EE7B7&fire=FF6B6B&currStreakLabel=6EE7B7" alt="GitHub Streak" />
-</div>
-
----
-
 <div align="center">
 
 *Geometry first. Neural next. Ship when it works.*
