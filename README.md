@@ -32,7 +32,7 @@ I believe in building things from scratch first — understanding the math befor
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [**DarkSight**](https://github.com/gautham-ramkumar/DarkSight) | Perception-aware low-light enhancement for autonomous systems — DS3DConv + ConvGRU recurrent pipeline with RAFT temporal stability, TensorRT deployment at 60+ FPS, and YOLOv8 integration on Intel RealSense D435 | `PyTorch` `TensorRT` `Zero-3DCE` `RAFT` `YOLOv8` `RealSense` |
+| [**DarkSight**](https://github.com/gautham-ramkumar/DarkSight) | Perception-aware low-light enhancement for autonomous systems — DS3DConv + ConvGRU recurrent pipeline with RAFT temporal stability, TensorRT deployment at 21 FPS, and YOLOv8 integration on Intel RealSense D435 | `PyTorch` `TensorRT` `Zero-3DCE` `RAFT` `YOLOv8` `RealSense` |
 | [**gaussian-splatting**](https://github.com/gautham-ramkumar/gaussian-splatting) | 3D Gaussian Splatting from scratch — Buddha statue reconstruction with COLMAP, Docker, and CI/CD | `Python` `COLMAP` `Docker` `3DGS` |
 | [**3D-Reconstruction-using-SfM**](https://github.com/gautham-ramkumar/3D-Reconstruction-using-SfM) | Incremental SfM pipeline with OpenCV PnP tracking and GTSAM Bundle Adjustment | `Python` `OpenCV` `GTSAM` `SfM` |
 | [**Semantic-Color-Constancy**](https://github.com/gautham-ramkumar/Semantic-Color-Constancy) | Novel color constancy method leveraging object-level semantic priors — CS 7180 Advanced Perception | `PyTorch` `Semantic Segmentation` `CV` |
