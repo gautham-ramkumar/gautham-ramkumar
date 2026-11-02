@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=Gautham+Ramkumar;Computer+Vision+%26+Robotics+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=100&lines=Gautham+Ramkumar;Computer+Vision+%26+Robotics+Engineer)](https://git.io/typing-svg)
 
 **Building perception systems that understand geometry, light, and the world in 3D**
 
@@ -16,14 +16,14 @@
 
 ## About Me
 
-MS Robotics student at **Northeastern University, Boston** with a focus on **3D vision**, **deep learning for perception**, and **autonomous systems**. I work at the intersection of classical geometry and modern neural methods — from 3D Gaussian Splatting and Structure-from-Motion to sensor fusion and Vision-Language-Action models.
+Robotics Perception Engineer with an **MS in Robotics from Northeastern University**, focused on **3D vision**, **deep learning for perception**, and **autonomous systems**. I work at the intersection of classical geometry and modern neural methods — from 3D Gaussian Splatting and Structure-from-Motion to sensor fusion and Vision-Language-Action models.
 
 I believe in building things from scratch first — understanding the math before using the library.
 
-- 🎓 **MS in Robotics** — Northeastern University, Boston (GPA: 3.636)
-- 🔭 Currently exploring **Vision-Language-Action (VLA) models** and **neural scene representations**
+- 🎓 **MS in Robotics** — Northeastern University (2024 – 2026, GPA: 3.636)
+- 🔭 Currently focused on **camera–LiDAR calibration, sensor fusion, SLAM, and Vision-Language-Action (VLA) models**
 - 🛠️ Building from scratch: DQN in PyTorch → Gaussian Splatting → fine-tuning VLAs on sim benchmarks
-- 📍 Boston, MA
+- 📍 Bay Area, CA — available onsite
 - 💼 **Actively seeking full-time roles in Perception & Autonomy**
 
 ---
@@ -49,7 +49,6 @@ I believe in building things from scratch first — understanding the math befor
 
 ### Deep Learning & Vision
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![3D Gaussian Splatting](https://img.shields.io/badge/-3DGS-05122A?style=flat-square)
 ![NeRF](https://img.shields.io/badge/-NeRF/Novel_View-05122A?style=flat-square)
@@ -63,8 +62,6 @@ I believe in building things from scratch first — understanding the math befor
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![CUDA](https://img.shields.io/badge/-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 </td>
 <td valign="top" width="25%">
@@ -84,7 +81,6 @@ I believe in building things from scratch first — understanding the math befor
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 </td>
